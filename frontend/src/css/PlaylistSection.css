@@ -1,0 +1,20 @@
+#playlists{
+    padding:0 10px;
+}
+
+#playlists .container{
+    padding: 50px 0;
+}
+
+.playlists-headline{
+     padding: 10px 20px;
+    text-align: center;
+}
+
+
+.playlist-container{
+    padding: 25px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
